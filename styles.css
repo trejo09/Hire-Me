@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h1 {
+    color: #0E2F44;
+}
+
+h3 {
+    color: #0E2F44;
+}
+
+h4 {
+    color: #0E2F44;
+}
+
+p {
+    color: #66a3a3;
+}
+
+ul {
+    color: #66a3a3;
+}
+
+.text {
+    font-family: "Trebuchet MS";
+}
+img{
+   margin: 10px 450px 10px 450px;
+}
